@@ -3,9 +3,10 @@
 <h2>Información</h2>
 <p>Curso: Full Stack Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
-
+<h2>: Link pagina web </h2>
+<a href="https://jesperm1994.github.io/Taller-9-Fullstack-jspm/">Link de pag web</a>
 <h2>Punto 1: Link de figma</h2>
-<a href= https://www.figma.com/file/cBrd91OBhVkwUCaJ03nhUp/Jeison-Perez-Figma-excercise?type=design&node-id=1-523&mode=design&t=vPpfX7QDvw9jA3ld-0>Link de Figma</a>
+<a href="https://www.figma.com/file/cBrd91OBhVkwUCaJ03nhUp/Jeison-Perez-Figma-excercise?type=design&node-id=1-523&mode=design&t=vPpfX7QDvw9jA3ld-0">Link de Figma</a>
 
 <h2>Punto 2: HTML<h2>
 <img src="./public/images/HTML.png" alt="html">
